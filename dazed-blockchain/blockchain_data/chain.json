@@ -1,0 +1,124 @@
+[
+    {
+        "index": 0,
+        "timestamp": 1747886612.2467442,
+        "transactions": [
+            {
+                "to": "0xFounder",
+                "amount": 84000000
+            },
+            {
+                "to": "Dazed Treasury",
+                "amount": 336000000
+            }
+        ],
+        "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": 0,
+        "hash": "e5902d1a37e2ae743e9a3ca6ac3f6e03c79dc832183a09da1292a843d1d8ea05"
+    },
+    {
+        "index": 1,
+        "timestamp": 1748046405.517003,
+        "transactions": [
+            {
+                "type": "mint",
+                "to": "0xDispensary123",
+                "amount": 420,
+                "note": "Verified product METRC 123456789012345678901234"
+            }
+        ],
+        "previous_hash": "e5902d1a37e2ae743e9a3ca6ac3f6e03c79dc832183a09da1292a843d1d8ea05",
+        "nonce": 0,
+        "hash": "ce3af5f6fdced3deb92c0211edb2ac5f864273631545de97021876d1fa8a450f"
+    },
+    {
+        "index": 2,
+        "timestamp": 1748060198.2912261,
+        "transactions": [
+            {
+                "type": "mint",
+                "to": "0xDispensary123",
+                "amount": 420,
+                "note": "Verified product METRC 123456789012345678901234"
+            }
+        ],
+        "previous_hash": "ce3af5f6fdced3deb92c0211edb2ac5f864273631545de97021876d1fa8a450f",
+        "nonce": 0,
+        "hash": "01b0f541c31483233d703021209dc626a5e3180f264bbec9aaf366d14b07c399"
+    },
+    {
+        "index": 3,
+        "timestamp": 1748060237.4400299,
+        "transactions": [
+            {
+                "type": "mint",
+                "to": "0xDispensary123",
+                "amount": 420,
+                "note": "Verified product METRC 123456789012345678901234"
+            }
+        ],
+        "previous_hash": "01b0f541c31483233d703021209dc626a5e3180f264bbec9aaf366d14b07c399",
+        "nonce": 0,
+        "hash": "ee06d74d128bf36fe3c1423e1caf7509edb46aa98b4b0504da815af1ac10d659"
+    },
+    {
+        "index": 4,
+        "timestamp": 1748060424.684484,
+        "transactions": [
+            {
+                "type": "mint",
+                "to": "0xDispensary123",
+                "amount": 420,
+                "note": "Verified product METRC 123456789012345678901234"
+            }
+        ],
+        "previous_hash": "ee06d74d128bf36fe3c1423e1caf7509edb46aa98b4b0504da815af1ac10d659",
+        "nonce": 0,
+        "hash": "362aebc4a7f3337f7baad0850ceea108fe9c8e849f53975b44a08c105da7ad13"
+    },
+    {
+        "index": 5,
+        "timestamp": 1748061922.722788,
+        "transactions": [
+            {
+                "type": "mint",
+                "to": "0xDispensary123",
+                "amount": 420,
+                "note": "Verified product METRC 123456789012345678901234"
+            }
+        ],
+        "previous_hash": "362aebc4a7f3337f7baad0850ceea108fe9c8e849f53975b44a08c105da7ad13",
+        "nonce": 0,
+        "hash": "e45fd0fbf6449d81bfeebc178049b25a16fc10ca8d24e0a296d8fb82b583eb48"
+    },
+    {
+        "index": 6,
+        "timestamp": 1748062059.9719691,
+        "transactions": [
+            {
+                "type": "mint",
+                "to": "0xDispensary123",
+                "amount": 420,
+                "note": "Verified product METRC 123456789012345678901234"
+            }
+        ],
+        "previous_hash": "e45fd0fbf6449d81bfeebc178049b25a16fc10ca8d24e0a296d8fb82b583eb48",
+        "nonce": 0,
+        "hash": "33feb5be603b4320b660a301c1c81cb7e841eb421faea16710253bf3f288cdb8"
+    },
+    {
+        "index": 7,
+        "timestamp": 1748117681.146525,
+        "transactions": [
+            {
+                "type": "mint",
+                "to": "0xDispensary123",
+                "amount": 420,
+                "note": "Verified product METRC 123456789012345678901234"
+            }
+        ],
+        "previous_hash": "33feb5be603b4320b660a301c1c81cb7e841eb421faea16710253bf3f288cdb8",
+        "nonce": 0,
+        "hash": "134dc82336379718fd3c10cd04f2fab8a10da9539a3da7b7caa9f7d5e1efb3e3"
+    }
+]

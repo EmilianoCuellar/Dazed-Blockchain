@@ -1,0 +1,17 @@
+{
+    "index": 0,
+    "timestamp": 1747886612.2467442,
+    "transactions": [
+        {
+            "to": "0xFounder",
+            "amount": 84000000
+        },
+        {
+            "to": "Dazed Treasury",
+            "amount": 336000000
+        }
+    ],
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce": 0,
+    "hash": "e5902d1a37e2ae743e9a3ca6ac3f6e03c79dc832183a09da1292a843d1d8ea05"
+}
