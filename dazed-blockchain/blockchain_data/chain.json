@@ -1,21 +1,16 @@
 [
     {
         "index": 0,
-        "timestamp": 1747886612.2467442,
+        "timestamp": 1752721547.8820345,
         "transactions": [
-            {
-                "to": "0xFounder",
-                "amount": 84000000
-            },
-            {
-                "to": "Dazed Treasury",
-                "amount": 336000000
-            }
+          { "amount": 84000000, "to": "0xFounder" },
+          { "amount": 42000000, "to": "GanjaGang Treasury" },
+          { "amount": 294000000, "to": "Public Treasury" }
         ],
         "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
         "nonce": 0,
-        "hash": "e5902d1a37e2ae743e9a3ca6ac3f6e03c79dc832183a09da1292a843d1d8ea05"
-    },
+        "hash": "87ad61ccfe1d1283d61c1bb5371c61c4e8673b0f96b20d71185330fff340eab5"
+      },
     {
         "index": 1,
         "timestamp": 1748046405.517003,
